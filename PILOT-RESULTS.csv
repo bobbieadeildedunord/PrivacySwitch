@@ -1,0 +1,242 @@
+Case ID,Section,Type,Case,Tester alias,Result,Windows edition/build,Account role,Language/theme/DPI/input,Actual result,Cleanup result,Evidence reference
+
+ALPHA-001,Alpha,SELF,Unpack,,NOT RUN,,,,,,
+
+ALPHA-002,Alpha,SELF,First launch,,NOT RUN,,,,,,
+
+ALPHA-003,Alpha,SELF,Decline,,NOT RUN,,,,,,
+
+ALPHA-004,Alpha,SELF,Accept,,NOT RUN,,,,,,
+
+ALPHA-005,Alpha,SELF,Portable path,,NOT RUN,,,,,,
+
+ALPHA-006,Alpha,SELF,Second instance,,NOT RUN,,,,,,
+
+ALPHA-007,Alpha,SELF,Copyright and links,,NOT RUN,,,,,,
+
+ALPHA-008,Alpha,SUPERVISED,Sign-in registration,,NOT RUN,,,,,,
+
+ALPHA-009,Alpha,SUPERVISED,Relocation review,,NOT RUN,,,,,,
+
+ALPHA-010,Alpha,SUPERVISED,Accept relocation,,NOT RUN,,,,,,
+
+ALPHA-011,Alpha,SUPERVISED,Remove sign-in,,NOT RUN,,,,,,
+
+ALPHA-012,Alpha,SELF,Exit and relaunch,,NOT RUN,,,,,,
+
+BRAVO-001,Bravo,SELF,New profile,,NOT RUN,,,,,,
+
+BRAVO-002,Bravo,SELF,Two profiles,,NOT RUN,,,,,,
+
+BRAVO-003,Bravo,SELF,Rename/copy,,NOT RUN,,,,,,
+
+BRAVO-004,Bravo,SELF,Save existing,,NOT RUN,,,,,,
+
+BRAVO-005,Bravo,SELF,Delete,,NOT RUN,,,,,,
+
+BRAVO-006,Bravo,SELF,Drag add,,NOT RUN,,,,,,
+
+BRAVO-007,Bravo,SELF,Drag remove,,NOT RUN,,,,,,
+
+BRAVO-008,Bravo,SELF,Reorder,,NOT RUN,,,,,,
+
+BRAVO-009,Bravo,SELF,Unsaved draft,,NOT RUN,,,,,,
+
+BRAVO-010,Bravo,SELF,Run cancellation,,NOT RUN,,,,,,
+
+BRAVO-011,Bravo,SUPERVISED,Allowed sequence,,NOT RUN,,,,,,
+
+BRAVO-012,Bravo,SELF,Experimental preflight,,NOT RUN,,,,,,
+
+CHARLIE-001,Charlie,SELF,English,,NOT RUN,,,,,,
+
+CHARLIE-002,Charlie,SELF,Swedish,,NOT RUN,,,,,,
+
+CHARLIE-003,Charlie,SELF,Built-in themes,,NOT RUN,,,,,,
+
+CHARLIE-004,Charlie,SELF,System theme,,NOT RUN,,,,,,
+
+CHARLIE-005,Charlie,SELF,Custom preview,,NOT RUN,,,,,,
+
+CHARLIE-006,Charlie,SELF,Custom save,,NOT RUN,,,,,,
+
+CHARLIE-007,Charlie,SELF,Custom validation,,NOT RUN,,,,,,
+
+CHARLIE-008,Charlie,SELF,Theme isolation,,NOT RUN,,,,,,
+
+CHARLIE-009,Charlie,SELF,Window sizes,,NOT RUN,,,,,,
+
+CHARLIE-010,Charlie,SELF,Mouse and trackpad,,NOT RUN,,,,,,
+
+CHARLIE-011,Charlie,SELF,Helpers and focus,,NOT RUN,,,,,,
+
+CHARLIE-012,Charlie,SELF,Animation preference,,NOT RUN,,,,,,
+
+DELTA-001,Delta,SELF,Initial evidence,,NOT RUN,,,,,,
+
+DELTA-002,Delta,SUPERVISED,Review/cancel,,NOT RUN,,,,,,
+
+DELTA-003,Delta,SUPERVISED,Apply on test devices,,NOT RUN,,,,,,
+
+DELTA-004,Delta,SUPERVISED,Microphone observation,,NOT RUN,,,,,,
+
+DELTA-005,Delta,SUPERVISED,Camera observation,,NOT RUN,,,,,,
+
+DELTA-006,Delta,SELF,Recorded markers,,NOT RUN,,,,,,
+
+DELTA-007,Delta,SUPERVISED,Restore originals,,NOT RUN,,,,,,
+
+DELTA-008,Delta,SUPERVISED,Already restricted,,NOT RUN,,,,,,
+
+DELTA-009,Delta,SUPERVISED,Partial support,,NOT RUN,,,,,,
+
+DELTA-010,Delta,SUPERVISED,Hotplug observation,,NOT RUN,,,,,,
+
+DELTA-011,Delta,SUPERVISED,External change,,NOT RUN,,,,,,
+
+DELTA-012,Delta,SUPERVISED,Recovery continuity,,NOT RUN,,,,,,
+
+ECHO-001,Echo,SELF,Help and scope,,NOT RUN,,,,,,
+
+ECHO-002,Echo,SELF,Button layout,,NOT RUN,,,,,,
+
+ECHO-003,Echo,SUPERVISED,Disposable app close,,NOT RUN,,,,,,
+
+ECHO-004,Echo,SUPERVISED,Physical key,,NOT RUN,,,,,,
+
+ECHO-005,Echo,SUPERVISED,Relaunch watch,,NOT RUN,,,,,,
+
+ECHO-006,Echo,SUPERVISED,Microsoft 365 scope,,NOT RUN,,,,,,
+
+ECHO-007,Echo,SUPERVISED,Policy review,,NOT RUN,,,,,,
+
+ECHO-008,Echo,SUPERVISED,Copilot restore,,NOT RUN,,,,,,
+
+ECHO-009,Echo,SUPERVISED,ChatGPT/Codex close,,NOT RUN,,,,,,
+
+ECHO-010,Echo,SUPERVISED,Sandbox service,,NOT RUN,,,,,,
+
+ECHO-011,Echo,SELF,Identity boundaries,,NOT RUN,,,,,,
+
+ECHO-012,Echo,SUPERVISED,Session exit,,NOT RUN,,,,,,
+
+FOXTROT-001,Foxtrot,SELF,Privacy readout,,NOT RUN,,,,,,
+
+FOXTROT-002,Foxtrot,SELF,Settings links,,NOT RUN,,,,,,
+
+FOXTROT-003,Foxtrot,SUPERVISED,Privacy save/change,,NOT RUN,,,,,,
+
+FOXTROT-004,Foxtrot,SUPERVISED,Privacy match,,NOT RUN,,,,,,
+
+FOXTROT-005,Foxtrot,SELF,Named history,,NOT RUN,,,,,,
+
+FOXTROT-006,Foxtrot,SELF,Startup inventory,,NOT RUN,,,,,,
+
+FOXTROT-007,Foxtrot,SELF,Startup selection,,NOT RUN,,,,,,
+
+FOXTROT-008,Foxtrot,SUPERVISED,Startup save/change,,NOT RUN,,,,,,
+
+FOXTROT-009,Foxtrot,SUPERVISED,Manual/auto summary,,NOT RUN,,,,,,
+
+FOXTROT-010,Foxtrot,SUPERVISED,Pause/resume,,NOT RUN,,,,,,
+
+FOXTROT-011,Foxtrot,SELF,Profile/legacy import,,NOT RUN,,,,,,
+
+FOXTROT-012,Foxtrot,SUPERVISED,Restart persistence,,NOT RUN,,,,,,
+
+GOLF-001,Golf,SELF,Coverage and simple view,,NOT RUN,,,,,,
+
+GOLF-002,Golf,SELF,Advanced detail,,NOT RUN,,,,,,
+
+GOLF-003,Golf,SELF,Endpoint watch,,NOT RUN,,,,,,
+
+GOLF-004,Golf,SELF,Activity watch,,NOT RUN,,,,,,
+
+GOLF-005,Golf,SELF,Background continuity,,NOT RUN,,,,,,
+
+GOLF-006,Golf,SELF,Review filter,,NOT RUN,,,,,,
+
+GOLF-007,Golf,SELF,Investigation memory,,NOT RUN,,,,,,
+
+GOLF-008,Golf,SELF,Process/path actions,,NOT RUN,,,,,,
+
+GOLF-009,Golf,SELF,Privacy capabilities,,NOT RUN,,,,,,
+
+GOLF-010,Golf,SELF,Hosts/DNS,,NOT RUN,,,,,,
+
+GOLF-011,Golf,SELF,Masking,,NOT RUN,,,,,,
+
+GOLF-012,Golf,SELF,Local content/exit,,NOT RUN,,,,,,
+
+HOTEL-001,Hotel,SELF,Keep-awake start,,NOT RUN,,,,,,
+
+HOTEL-002,Hotel,SELF,Keep-awake stop,,NOT RUN,,,,,,
+
+HOTEL-003,Hotel,SELF,Audit order,,NOT RUN,,,,,,
+
+HOTEL-004,Hotel,SELF,Audit refresh/close,,NOT RUN,,,,,,
+
+HOTEL-005,Hotel,SUPERVISED,Offline prerequisites,,NOT RUN,,,,,,
+
+HOTEL-006,Hotel,SUPERVISED,Offline cancel,,NOT RUN,,,,,,
+
+HOTEL-007,Hotel,SUPERVISED,Offline apply,,NOT RUN,,,,,,
+
+HOTEL-008,Hotel,SUPERVISED,Offline restore,,NOT RUN,,,,,,
+
+HOTEL-009,Hotel,SUPERVISED,Quick-close state,,NOT RUN,,,,,,
+
+HOTEL-010,Hotel,SUPERVISED,Recovery continuity,,NOT RUN,,,,,,
+
+HOTEL-011,Hotel,SUPERVISED,Recovery failure,,NOT RUN,,,,,,
+
+HOTEL-012,Hotel,SUPERVISED,Crash/restart,,NOT RUN,,,,,,
+
+INDIA-001,India,SELF,Engine absent,,NOT RUN,,,,,,
+
+INDIA-002,India,SELF,Engine discovery,,NOT RUN,,,,,,
+
+INDIA-003,India,SELF,Encrypt copy,,NOT RUN,,,,,,
+
+INDIA-004,India,SELF,Unlock copy,,NOT RUN,,,,,,
+
+INDIA-005,India,SELF,Wrong password,,NOT RUN,,,,,,
+
+INDIA-006,India,SELF,Cancel before start,,NOT RUN,,,,,,
+
+INDIA-007,India,SELF,Cancel running job,,NOT RUN,,,,,,
+
+INDIA-008,India,SELF,Name/path coverage,,NOT RUN,,,,,,
+
+INDIA-009,India,SELF,Output collision,,NOT RUN,,,,,,
+
+INDIA-010,India,SELF,Bad input,,NOT RUN,,,,,,
+
+INDIA-011,India,SELF,Empty/multiple files,,NOT RUN,,,,,,
+
+INDIA-012,India,SELF,Operation boundaries,,NOT RUN,,,,,,
+
+JULIET-001,Juliet,SELF,USB card lock,,NOT RUN,,,,,,
+
+JULIET-002,Juliet,SELF,Install-policy card lock,,NOT RUN,,,,,,
+
+JULIET-003,Juliet,SELF,Profile lock preflight,,NOT RUN,,,,,,
+
+JULIET-004,Juliet,SUPERVISED,Direct gate,,NOT RUN,,,,,,
+
+JULIET-005,Juliet,SELF,Recovery access,,NOT RUN,,,,,,
+
+JULIET-006,Juliet,SELF,Baseline scope,,NOT RUN,,,,,,
+
+JULIET-007,Juliet,SELF,Future modules,,NOT RUN,,,,,,
+
+JULIET-008,Juliet,SELF,Donation/feedback,,NOT RUN,,,,,,
+
+JULIET-009,Juliet,SELF,Agreement access,,NOT RUN,,,,,,
+
+JULIET-010,Juliet,SELF,Locality review,,NOT RUN,,,,,,
+
+JULIET-011,Juliet,SELF,Matrix gaps,,NOT RUN,,,,,,
+
+JULIET-012,Juliet,SELF,Free exploration and closeout,,NOT RUN,,,,,,
+
